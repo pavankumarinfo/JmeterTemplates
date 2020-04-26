@@ -1,6 +1,6 @@
 # JmeterTemplates
 This resource is helpful for all people who would like to develop Jmeter scripts from Basic level.
-This Git resource have different types of Jmeter Tempaltes:
+This Git resource have different types of Jmeter Templates:
 
 1. Basic Jmeter 
 2. Basic Jmeter using Data file 
