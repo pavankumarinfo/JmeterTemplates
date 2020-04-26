@@ -1,0 +1,47 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 2,
+    "errorCount" : 1,
+    "errorPct" : 50.0,
+    "meanResTime" : 358.0,
+    "minResTime" : 171.0,
+    "maxResTime" : 545.0,
+    "pct1ResTime" : 545.0,
+    "pct2ResTime" : 545.0,
+    "pct3ResTime" : 545.0,
+    "throughput" : 2.7777777777777777,
+    "receivedKBytesPerSec" : 34.731716579861114,
+    "sentKBytesPerSec" : 0.3200954861111111
+  },
+  "HTTP Request -- Possitve  case -  validate google.com" : {
+    "transaction" : "HTTP Request -- Possitve  case -  validate google.com",
+    "sampleCount" : 1,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 545.0,
+    "minResTime" : 545.0,
+    "maxResTime" : 545.0,
+    "pct1ResTime" : 545.0,
+    "pct2ResTime" : 545.0,
+    "pct3ResTime" : 545.0,
+    "throughput" : 1.834862385321101,
+    "receivedKBytesPerSec" : 22.959073967889907,
+    "sentKBytesPerSec" : 0.2114392201834862
+  },
+  "HTTP Request -- Negative  case -  validate google.com" : {
+    "transaction" : "HTTP Request -- Negative  case -  validate google.com",
+    "sampleCount" : 1,
+    "errorCount" : 1,
+    "errorPct" : 100.0,
+    "meanResTime" : 171.0,
+    "minResTime" : 171.0,
+    "maxResTime" : 171.0,
+    "pct1ResTime" : 171.0,
+    "pct2ResTime" : 171.0,
+    "pct3ResTime" : 171.0,
+    "throughput" : 5.847953216374268,
+    "receivedKBytesPerSec" : 73.06514985380116,
+    "sentKBytesPerSec" : 0.6738852339181286
+  }
+}
