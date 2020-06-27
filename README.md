@@ -12,3 +12,4 @@ This Git resource have different types of Jmeter Templates:
 Note:
 1. Empty for "tempchartsResults" folder before running bat file.
 2. Bat file is open to edit and change different file for executing Jmeter tests in headless/command mode.
+3. 
