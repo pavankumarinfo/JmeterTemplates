@@ -1,3 +1,5 @@
+Note: These files are created for education/training purpose only 
+
 # JmeterTemplates
 This resource is helpful for all people who would like to develop Jmeter scripts from Basic level.
 This Git resource have different types of Jmeter Templates:
@@ -25,3 +27,4 @@ This Git resource have different types of Jmeter Templates:
 
 ##### Note:
 Empty for "tempchartsResults" folder before running bat file. Bat file is open to edit and change different file for executing Jmeter tests in headless/command mode.
+
