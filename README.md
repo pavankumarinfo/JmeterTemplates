@@ -25,6 +25,9 @@ This Git resource have different types of Jmeter Templates:
 6. ##### Running Jmeter via Bat file and generating reports
 .JMX, .bat & Test results & Charts/reports folder
 
+7. ##### Concurrency thread group
+Which is used to do step up threading calls with different combinations Number of users, rampup period, loop count.
+
 ##### Note:
 Empty for "tempchartsResults" folder before running bat file. Bat file is open to edit and change different file for executing Jmeter tests in headless/command mode.
 
